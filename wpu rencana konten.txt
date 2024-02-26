@@ -2,7 +2,10 @@ Rencana Konten WPU
 -javascript
   * ES6
   *framework js
+    ^ Vue
 -Struktur data dasar
 -php framework
+ ^ laravel
 -interview
 -vlog
+-pyton
